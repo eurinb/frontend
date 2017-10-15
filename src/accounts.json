@@ -1,0 +1,14 @@
+{
+	"accounts":[
+		{
+            "title":"DKB 1015433889",
+            "type":"Girokonto",
+			"enabled":true
+		},
+		{
+            "title":"Commerzbank 883124515",
+            "type":"Tagesgeld-Konto",
+			"enabled":false
+		}
+	]
+}
